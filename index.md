@@ -1,13 +1,3 @@
-[//]: # (<!-- ---
-layout: default
-title: OctoSpork, Spork of Octos
----
-<div class="blurb"> 
-	<h1>Hi there, I'm OctoSpork!</h1>
-	<p>i love the Schmiu <em>And the Schnibb</em> Ch40s. <a href="/about">Read more about my life...</a></p>
-</div><!-- /.blurb --> )
-			
-			
 			## Great afternoon ladys and gentlemen...
 
 ⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶ 
@@ -24,27 +14,6 @@ title: OctoSpork, Spork of Octos
 ⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿ 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿ 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Welcome to GitHub Pages
