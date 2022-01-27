@@ -1,14 +1,14 @@
----
+[//]: # (<!-- ---
 layout: default
 title: OctoSpork, Spork of Octos
 ---
-<div class="blurb">
+<div class="blurb"> 
 	<h1>Hi there, I'm OctoSpork!</h1>
 	<p>i love the Schmiu <em>And the Schnibb</em> Ch40s. <a href="/about">Read more about my life...</a></p>
-</div><!-- /.blurb -->
+</div><!-- /.blurb --> )
 			
 			
-<!--			## Great afternoon ladys and gentlemen...
+			## Great afternoon ladys and gentlemen...
 
 ⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶ 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿ 
@@ -83,4 +83,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.-->
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
