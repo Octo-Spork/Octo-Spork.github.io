@@ -1,3 +1,9 @@
 theme: jekyll-theme-hacker
 title: Octo-Spork's new && very cool homepage
-description: loving the schmiu, and the schnibb :*
+email: your-email@example.com
+description: >- #hello comment
+  loving the schmiu, and the schnibb :*
+baseurl: "Octo-Spork"
+url:""#base hostoname&protocoll
+twitter_username: jekyllrb
+github_username: Octo-Spork
