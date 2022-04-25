@@ -14,6 +14,29 @@ body{
   overflow: hidden;
 }
 
+video{
+ object-fit: cover;
+ height: 100%;
+ width: 100%;
+
+ position: absolute;
+ top: 0;
+ left: 0;
+}
+
+.video-wrapper {
+  position: relative;
+  
+  min-height: 200px;
+
+  overflow: hidden;
+
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 #main-header{
   background-color: coral;
   color: #fff;
