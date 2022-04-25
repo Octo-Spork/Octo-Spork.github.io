@@ -15,26 +15,19 @@ body{
 }
 
 video{
- object-fit: cover;
- height: 100%;
- width: 100%;
+  object-fit: cover;
+  width: 100%    !important;
+  height: auto   !important;
 
- position: absolute;
- top: 0;
- left: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .video-wrapper {
   position: relative;
-  
-  min-height: 200px;
-
-  overflow: hidden;
-
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  padding-bottom: 56.25%;
+  height: 0;
 }
 
 #main-header{
