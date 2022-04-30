@@ -8,7 +8,7 @@ body{
 }
 
 .container{
-  width: 90%;
+  width: 80%;
   margin: auto;
   overflow: hidden;
   padding-bottom: 10px
@@ -38,7 +38,7 @@ body{
 }
 /*testing*/
 #navbar li:hover {
-  box-shadow: 0 0 11px rgba(333,33,33,.2);
+  box-shadow: 0px 2px 0px orange;
 }
 
 #navbar a{
@@ -54,32 +54,42 @@ video{
   width: 100%    !important;
   height: auto   !important;
 
-  position: absolute;
+  /*position: absolute;
   top: 0;
-  left: 0;
+  left: 0;*/
 }
 
 .video-wrapper {
   position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
+  /*padding-bottom: 56.25%;*/
+  /*height: 0;*/
 }
 
 #showcase{
-  background-image: url('../images/BackgroundNebula.jpg');
-  background-position: center left;
-  /*background-position: center right;*/
-  min-height: 320px;
-  margin-bottom: 30px;
+  background-image: url('../images/nibblergets8.jpg');
+  background-size: cover;
+
+  background-position: center;
+  position: relative;
+  background-attachment: fixed;
+  min-height: 420px;
+  margin-bottom: 40px;
   text-align: center;
-  text-align:
+
 }
 
 #showcase h1{
   color: #fff;
-  font-size: 50px;
+  font-size: 40px;
   line-height: 1.6em;
-  padding-top: 30px;
+  padding-top: center;
+
+  position: absolute;
+  text-align: center;
+
+  left: 0;
+  padding-left: 10%;
+  width: 80%;
 }
 
 #main{
