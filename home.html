@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My Website</title>
+    <link rel="stylesheet" type="text/css" href="css/homestyle.css">
+  </head>
+
+  <body>
+
+    <header id="main-header">
+      <div class="container">
+        <h1>Eine Schmihuliche Website.</h1>
+      </div>
+    </header>
+
+    <nav id="navbar">
+      <div class="container">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="blog.html">Blog</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <section id="showcase">
+      <div class="container">
+        <div class="welcomeMsg"></div>
+        <!--<h1>Lorem ipsum dolor sit amet, dolore magna aliqua.</h1> -->
+        </div>
+      </div>
+    </section>
+
+    <div class="container">
+
+      <section id="main">
+        <h2>Welcome</h2>
+        <div class="video-wrapper">
+          <video playsinline autoplay muted loop poster="">
+            <source src="images/testblend.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+
+      </section>
+
+      <aside id="sidebar">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      </aside>
+
+    </div>
+
+    <div class="container">
+
+        <section id="main">
+          <h2>Another Case of MOndey</h2>
+          <div class="video-wrapper">
+            <video playsinline autoplay muted loop poster="">
+              <source src="images/0001-0100.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+
+        </section>
+
+        <aside id="sidebar">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </aside>
+
+    </div>
+
+    <footer id="main-footer">
+      <p>Copyright &copy; 2022 Nibbler Entertainment</p>
+    </footer>
+
+    <script>
+      const welcomeMsg = document.querySelector(".welcomeMsg");
+
+      const welcomeMsgTxt = ["His dick was probably destroyed in the name of science. He should get the no bell prize."
+      , "US intelligence agencies briebe everyone and ecerything to make life worse for the peaople of Russia, including building bad roads and pissing pee around front door"
+      ,"There's almost always someone who's had it worse than you, but that doesn't invalidate your experience."
+      ];
+
+      let indexTxt = Math.floor(Math.random()*welcomeMsgTxt.length);
+
+      welcomeMsg.innerHTML = `<h1> ${welcomeMsgTxt[indexTxt]} </h1>`;
+      welcomeMsg.style.fontsize = "30px";
+    </script>
+  </body>
+</html>
