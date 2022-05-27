@@ -26,33 +26,28 @@ Tätigkeit in der Praxis
 
 
 [Vo_3: Vertiefung/ Ergänzung: Objekjtivität, Nützlichkeit](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo_3-vertiefung-ergänzung-objekjtivität-nützlichkeit)  
->  
-[Gütekriterien](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#gütekriterien)  
+>[Gütekriterien](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#gütekriterien)  
 [Halo Effekt:](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#halo-effekt)  
 [Rosenthal-Effekt](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#rosenthal-effekt)  
 [Nützlichkeit](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#nützlichkeit)
 
 [Vo_4: Grundlagen der Fallbehandlung/psychologischen Untersuchung I](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo_4-grundlagen-der-fallbehandlungpsychologischen-untersuchung-i)  
->  
-[Pychologisches Diagnostizieren (prozess & Hypothesengewinnung)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#pychologisches-diagnostizieren-prozess--hypothesengewinnung)  
+>[Pychologisches Diagnostizieren (prozess & Hypothesengewinnung)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#pychologisches-diagnostizieren-prozess--hypothesengewinnung)  
 [!Westhoff und Kluck 2003 - Verhaltensgleichung + Bedingungsvariablen](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#westhoff-und-kluck-2003---verhaltensgleichung--bedingungsvariablen)  
 [Auswahl der einzusetzenden Verfahren > gütekriterien: Situationsunabhängigkeit <-> item-stichprobe](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#auswahl-der-einzusetzenden-verfahren--gütekriterien-situationsunabhängigkeit---item-stichprobe)   
 
 [Vo_5: Grundlagen der Fallbehandlung/psychologischen Untersuchung II ](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo_5-grundlagen-der-fallbehandlungpsychologischen-untersuchung-ii)  
->  
-[Planungsstrategien (Anforderungsanalyse, Methode der Kritischen Ereignisse](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#planungsstrategien-anforderungsanalyse-methode-der-kritischen-ereignisse)  
+>[Planungsstrategien (Anforderungsanalyse, Methode der Kritischen Ereignisse](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#planungsstrategien-anforderungsanalyse-methode-der-kritischen-ereignisse)  
 [Untersuchungsstrategien (selfAssessment, diagnostikbegleitende Intervention)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#untersuchungsstrategien-selfassessment-diagnostikbegleitende-intervention)  
 [Entscheidungsstrategien(kompensatorisch,konjunktiv)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#entscheidungsstrategienkompensatorischkonjunktiv)  
 
 [Vo_6: Vertiefung/ Ergänzung: Gütekriterium Zumutbarkeit](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo_6-vertiefung-ergänzung-gütekriterium-zumutbarkeit)  
->  
-[multiple-choice-format](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#multiple-choice-format)  
+>[multiple-choice-format](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#multiple-choice-format)  
 [Objektive Persönlichkeitstest zumutbarkeit](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#objektive-persönlichkeitstest-zumutbarkeit)  
 [Um Akzeptanz der Testperson zu ereichen -> Erläuterungen](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#um-akzeptanz-der-testperson-zu-ereichen---erläuterungen)
 
 [Vo_7: Vertiefung/Ergänzung: Validität](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo_7-vertiefungergänzung-validität)
->  
-[Validität (test mist was er zu messen behauptet)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#validität-test-mist-was-er-zu-messen-behauptet)  
+>[Validität (test mist was er zu messen behauptet)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#validität-test-mist-was-er-zu-messen-behauptet)  
 [Einflüsse auf test (](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#einflüsse-auf-test-)  
 [Validitätskonzepte (logisch, trivial)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#--validitätskonzepte-logisch-trivial)  
 [Inhaltliche Gültigkeit (Regelgeleitete Itemkonstruktion, 1)ExpertenRating, 2)Extremgruppenvalidierung, 3)ChangeAnsatz, 4)MethodeDesLautenDenkens, 5)EvaluationDiagnosespezifischerförderung)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#inhaltliche-gültigkeit-regelgeleitete-itemkonstruktion-1expertenrating-2extremgruppenvalidierung-3changeansatz-4methodedeslautendenkens-5evaluationdiagnosespezifischerförderung)  
@@ -61,44 +56,36 @@ Tätigkeit in der Praxis
 
 
 [Vo_8: Grundlagen zur Theorie und Praxis von Leistungstests](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo_8-grundlagen-zur-theorie-und-praxis-von-leistungstests-gestaltung)  
->  
-[1) -> freies Antwortformat vs Muliple-Choice-Format (+ raten)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#1---freies-antwortformat-vs-muliple-choice-format--raten)  
+>[1) -> freies Antwortformat vs Muliple-Choice-Format (+ raten)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#1---freies-antwortformat-vs-muliple-choice-format--raten)  
 [2) Power- vs Speed-and-Power Test](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#2-power--vs-speed-and-power-test)  
 [3) Gruppen vs IndividualVerfahren](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#3-gruppen-vs-individualverfahren)  
 [4) PapierBleistuft vs Computerverfahren](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#4-papierbleistuft-vs-computerverfahren)
 
 [Vo_9: Vertiefung/ergänzung: Reliablilität(genauigkeit) & ökonomie (wirtschaftlichkeit)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo_9-vertiefungergänzung-reliablilitätgenauigkeit--ökonomie-wirtschaftlichkeit)  
->  
-[items-response-theorie](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#items-response-theorie)   
+>[items-response-theorie](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#items-response-theorie)   
 [klassische testtheorie:](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#klassische-testtheorie)  
 [Ökonomie:](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#ökonomie)
 
 [Vo_10 Adaptives Testen]()  
->  
-[Prinzip (AbgrenzungZuKlassisch,... ):](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#prinzip-abgrenzungzuklassisch-)  
+>[Prinzip (AbgrenzungZuKlassisch,... ):](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#prinzip-abgrenzungzuklassisch-)  
 [Vorteile_AdaptivesTesten(halbSoVieleItemsGut,...):](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vorteile_adaptivestestenhalbsovieleitemsgut)  
 [Strategien_adaptivesTesten (tailored-testing)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#strategien_adaptivestesten-tailored-testing)  
-[Strategien_adaptivesTesten (branchedTesting):](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#strategien_adaptivestesten-branchedtesting)  
-[](bla)  
-[](bla)   
+[Strategien_adaptivesTesten (branchedTesting):](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#strategien_adaptivestesten-branchedtesting)   
 
 
 [Vo_11: Rechtssicherheit Psychologischer Gutachten](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo_11-rechtssicherheit-psychologischer-gutachten)  
->  
-[Eichung](bla)  
+>[Eichung](bla)  
 [Skalierung (Anspruchsniveau, RaschModell)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#skalierung-anspruchsniveau-raschmodell)  
 
 [Vo_12: Grundlagen zur Theorie und Praxis von Persönlichkeitsfragebögen](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo_12-grundlagen-zur-theorie-und-praxis-von-persönlichkeitsfragebögen)
->  
-[GüteKriterium:Unverfälschbarkeit () {](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#gütekriteriumunverfälschbarkeit--)  
+>[GüteKriterium:Unverfälschbarkeit () {](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#gütekriteriumunverfälschbarkeit--)  
 [Techniken der Fragebogengestalltung (Statement, Adjektiva, Skalen)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#techniken-der-fragebogengestalltung-statement-adjektiva-skalen)  
 [Technigken der Persönlichkeitsdiagnostik:](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#technigken-der-persönlichkeitsdiagnostik)  
 [Techniken der Fragebogengestalltung (Antwortformat)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#techniken-der-fragebogengestalltung--)  
 [Persönlichkeitstheorien und konzepte von Persönlichkeitsfragebogen () {](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#persönlichkeitstheorien-und-konzepte-von-persönlichkeitsfragebogen--)  
 
 [Vo_13: Grundlagen zur Theorie und Praxis von Objektiven Persönlichkeitstests](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo_13-grundlagen-zur-theorie-und-praxis-von-objektiven-persönlichkeitstests)
->  
-[bisher(catell):](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#bishercatell)  
+>[bisher(catell):](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#bishercatell)  
 [objektivePersönlichlkeitsTests (siebenhandl):](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#objektivepersönlichlkeitstests-siebenhandl)  
 [Objektive persönlichkeitsdiagnostik === experimentalpsychologische Verhaltensdiagnostik](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#objektive-persönlichkeitsdiagnostik--experimentalpsychologische-verhaltensdiagnostik)  
 [formale besonderheitung der informationsverarbeitungen (Stile)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#formale-besonderheitung-der-informationsverarbeitungen-stile)  
