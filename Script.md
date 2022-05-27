@@ -98,12 +98,13 @@ Tätigkeit in der Praxis
 [Frustrationstoleranz](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#frustrationstoleranz)  
 [Belastbarkeit](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#belastbarkeit)  
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 
 
 
-
-### Vo_1: Ethische und rechtliche Rahmenbedingungen psychologischen Diagnostizierens:
+## Vo_1: Ethische und rechtliche Rahmenbedingungen psychologischen Diagnostizierens:
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ###### (Recht, Qualtiätsprofil)
 
