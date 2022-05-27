@@ -4,7 +4,7 @@ Psychologisches Diagnostizieren -> ist die einzige genuine(ursprüngliche)
 und gesetzlich ausschließlich auf Psychologien beschränkte (psychologische
 Tätigkeit in der Praxis
 
-
+[Markdown - Link](#link)
 [Vo_1: Ethische und rechtliche Rahmenbedingungen psychologischen Diagnostizierens:](#test-too)
 
 
@@ -257,7 +257,7 @@ Lehrmeinung quasi = einheitlich gefestigte standesüberzeugung
 verstoß gegen anstandgefühl ist rechtsrelevant
 
 
-
+#link
 # Vo2 -  Arbeitsmittel psychologischen diagnostizierens
 
 > ein psychologischer test sollte differenzieren
