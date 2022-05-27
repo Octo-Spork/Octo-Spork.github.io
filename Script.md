@@ -5,7 +5,7 @@ und gesetzlich ausschließlich auf Psychologien beschränkte (psychologische
 Tätigkeit in der Praxis
 
 
-[Vo_1: Ethische und rechtliche Rahmenbedingungen psychologischen Diagnostizierens:](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo2----arbeitsmittel-psychologischen-diagnostizierens)  
+[Vo_1: Ethische und rechtliche Rahmenbedingungen psychologischen Diagnostizierens:](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo_1-ethische-und-rechtliche-rahmenbedingungen-psychologischen-diagnostizierens)  
 >[Qualitätsprofil für Psychologen im Fach Psychologische Diagnostik:](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#qualitätsprofil-für-psychologen-im-fach-psychologische-diagnostik)  
 [Definition: Psychologische Diagnostik](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#definition-psychologische-diagnostik)  
 [dieser Prozess bezieht sich auf:](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#dieser-prozess-bezieht-sich-auf)
