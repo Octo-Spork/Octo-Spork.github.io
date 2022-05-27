@@ -4,7 +4,7 @@ Psychologisches Diagnostizieren -> ist die einzige genuine(ursprüngliche)
 und gesetzlich ausschließlich auf Psychologien beschränkte (psychologische
 Tätigkeit in der Praxis
 
-[Markdown - Link]([#-Link1](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo2----arbeitsmittel-psychologischen-diagnostizierens))
+[Markdown - Link](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#vo2----arbeitsmittel-psychologischen-diagnostizierens)
 
 Vo_1: Ethische und rechtliche Rahmenbedingungen psychologischen Diagnostizierens:](#test-too)
 
