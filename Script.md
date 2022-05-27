@@ -5,7 +5,7 @@ und gesetzlich ausschließlich auf Psychologien beschränkte (psychologische
 Tätigkeit in der Praxis
 
 [Markdown - Link](#link)
-[Vo_1: Ethische und rechtliche Rahmenbedingungen psychologischen Diagnostizierens:](#test-too)
+Vo_1: Ethische und rechtliche Rahmenbedingungen psychologischen Diagnostizierens:](#test-too)
 
 
 Vo_2:  Arbeitsmittel psychologischen diagnostizierens  
