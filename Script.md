@@ -1,4 +1,4 @@
-Script:
+# Script:
 
 Psychologisches Diagnostizieren -> ist die einzige genuine(ursprüngliche)
 und gesetzlich ausschließlich auf Psychologien beschränkte (psychologische
