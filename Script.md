@@ -123,6 +123,7 @@ Tätigkeit in der Praxis
 
  -> (durchgängige) Lehrmeinung
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Qualitätsprofil für Psychologen im Fach Psychologische Diagnostik:  
 
@@ -177,6 +178,7 @@ Beherschen eines adressatengemäen Audruckstils
 
 Qualifikation zur Abfassung psychologischer Gutachten
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Definition: Psychologische Diagnostik
 	-> ist die wissenschafltiche Disziplin
@@ -186,6 +188,7 @@ Qualifikation zur Abfassung psychologischer Gutachten
 	Psychologisches Diagnostizieren -> ist ein Przess, der unter Zuhilfenahme
 	besonderer Verfahren zielgerichtete Informationen über die psychischen
 	Merkmale von einem oder mehreren Menschen gewinnen will;
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### dieser Prozess bezieht sich auf:
 
@@ -202,6 +205,8 @@ Qualifikation zur Abfassung psychologischer Gutachten
 		Psychometrie -> widmet sich der mathematisch-statistisch fundierten
 		Theorie des Messsens psychischer Phänomene ..., also der THeorie der
 		Konstruktion der psychologische diagnostischen Verfahren.
+
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Rechtliche Rahmenbedinugnen:
 
@@ -227,6 +232,7 @@ Adressaten inhaltlich nachvollziehbar sind.
 Ein psychologisches Gutachten dokumentiert ein wissenschaftlich fundiertes
 Vorgehen und beantwortet so eine vorgegebene Fragestellung
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Konsumentenschutz
 > zur Wahrung des Konsumentenschutzes -> Standards
@@ -253,6 +259,7 @@ berufsethische Richtlinien
 Untersuchung gemäß den berufsethisch verankerten Qualitätsstandars für
 psychologische Gutachten abgefasst zu haben."
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Rechtliche bzw. Rechtsnahe Quellen
 ```
@@ -266,6 +273,8 @@ Psychologenvereinigungen
 
 durchgängige Lehrmeinung
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
+
 ### PsychDiag als prozess:  
 
 > Psychologisches Diagnostizieren ist ein Prozess unter zuhilfenahme
@@ -297,6 +306,7 @@ zur Ausübung des psychologischen Berufs berechtigte Personen dürfen
 psychologische Gutachten nur nach genauer Erhebung der im Gutachten zu
 beurteilenden Tatsachen nach bestem Wissen und Gewissen ausstellen
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Berufsethische Richtlinien
 ```
@@ -313,6 +323,7 @@ Qualitätsstandards für Gutachten
 Ein psychologisches Gutachten dukumentiert ein wissenschaftlich fundiertes
 Vorgehen und beantwortet eine vorgegebene Fragestellung
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Gutachten Aus Dorsch - Lexikon der psychologie
 
@@ -350,6 +361,7 @@ satz von oben
 Lehrmeinung quasi = einheitlich gefestigte standesüberzeugung
 verstoß gegen anstandgefühl ist rechtsrelevant
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ## Vo2 -  Arbeitsmittel psychologischen diagnostizierens
 [Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
