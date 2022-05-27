@@ -9,7 +9,7 @@ Tätigkeit in der Praxis
 Vo_1: Ethische und rechtliche Rahmenbedingungen psychologischen Diagnostizierens:](#test-too)
 
 
-Vo_2:  Arbeitsmittel psychologischen diagnostizierens  
+# Vo2 -  Arbeitsmittel psychologischen diagnostizierens
 Vo_3: Vertiefung/ Ergänzung: Objekjtivität, Nützlichkeit  
 Vo_5: Grundlagen der Fallbehandlung/psychologischen Untersuchung II  
 Vo_12: Grundlagen zur Theorie und Praxis von Persönlichkeitsfragebögen
