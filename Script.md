@@ -365,6 +365,7 @@ verstoß gegen anstandgefühl ist rechtsrelevant
 
 ## Vo2 -  Arbeitsmittel psychologischen diagnostizierens
 [Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
+
 > ein psychologischer test sollte differenzieren
 
 ```
@@ -381,6 +382,7 @@ verstoß gegen anstandgefühl ist rechtsrelevant
 -> messen die fragen alle dasselbe? Skalierung eines Tests
 ```
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Was trägt die Differenzielle Psychologie zum IST 2000R bei?
 
@@ -406,6 +408,7 @@ fluid intelligenz, kristallisierte Intelligenz Gedächtnis & lernen, Visuelle
 Wahrnehmung Auditive Wahrnehmung Retrieval Kognitive Schnelligkeit
 Verarbeitungsgeschwindigkeit
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### also... was trägt differenzielle psychologie zur intelligenzdiagnostik bei?
 
@@ -441,6 +444,7 @@ warhscheinlich das gewonnene empirische ergebnisse nicht universell gelten!
 ->in der praxis findet die chc theorie eigentlich keine umsetzung!
 ```
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### pragmatischer Standpunkt
 
@@ -468,6 +472,7 @@ kognitionen abzuprüfen
 Persönlichleitsdiagnostik ausschließlich an der geltenden Theorie der
 Differenziellen PSychologie orinetiert
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### -> Big Five Persönlichkeitsmofekk
 
@@ -484,6 +489,7 @@ Differenziellen PSychologie orinetiert
 - Gewissenhaftigkeit
 ```
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Entstehung -> sedimentationshypothese
 
@@ -511,6 +517,7 @@ Für die Praxis werden damit wichtige Aspekte nicht erfasst, daher entliche
 spezielle Persönlichkeitsfragebögen
 ```
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Projective Verfahren
 
@@ -532,6 +539,7 @@ nicht empirisch belegbar da unbewusstes nicht objectiv messbar
 -> schlie0t grundsätzlichen Wert projective Verfahren beim psychologischen
 Diagnostizieren nicht aus
 ```  
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Also:Einteilung psychologisch-diagnistische Verfahren:
 >  
@@ -562,7 +570,7 @@ rohrschach:
 
 Qualitätsanforderungen psychologisch diagnistoscher verfahren
 ```
-
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 
 ## VO_3: Vertiefung/ Ergänzung: Objekjtivität, Nützlichkeit
@@ -587,6 +595,7 @@ Objektivität {
 testleiter
 - jeder Testleiter bildet bestimmte Erwartungen über Testperson - Halo
 Effekt
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Halo Effekt:
 
@@ -596,6 +605,7 @@ hervorstechenden Eigenschaft leiten zu lassen
 - dieser Erwartungseffekt führt zur unwissentlichen Beeinflussung der
 Auftretenshäufigkeit bestimmter verhaltensweisen  
 - vor allem durch non verbale kommunikation
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Rosenthal-Effekt
 
@@ -616,6 +626,7 @@ Individualverfahren haben einen "Diagnostischen mehrwert" es werden
 wertvolle hinweise gesammelt die am computer nicht zur verfügung stehen.
 Einzelltestung > Gruppentestsituation )
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Nützlichkeit
 
@@ -633,6 +644,7 @@ negativ, befund auch nur beim geringsten verdacht positiv diagnostizieren
 psoitiven befund zu diagnostizieren
 ```
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ## Vo_4: Grundlagen der Fallbehandlung/psychologischen Untersuchung I
 [Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
@@ -658,6 +670,7 @@ verhindern oder unerwünschtes erleben und verhalten verursachen
 - qualifizierte gesprächsführung -> selbsterfahrung supervision
 - therapietechnkik des lernens -> beherschung nicht selbstverständlich
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### !Westhoff und Kluck 2003 - Verhaltensgleichung + Bedingungsvariablen
 
@@ -675,6 +688,7 @@ verhindern oder unerwünschtes erleben und verhalten verursachen
 ```
 differenzielle psych trägt nichts zur anamnese bzw exploration bei -> nur psychotherapeutische Schulen
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Auswahl der einzusetzenden Verfahren > gütekriterien: Situationsunabhängigkeit <-> item-stichprobe
 
@@ -699,6 +713,7 @@ das mit größerer anzahl von fragen der fehler immer kleiner wird.
 >-> Gütekriterien Reliabilität(messgenauigkeit) ökonomie (wirtschaftlichkeit)  
 vs zu viele items  -> gütekriterium Zumutbarkeit)
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ## Vo_5: Grundlagen der Fallbehandlung/psychologischen Untersuchung II
 [Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
@@ -735,6 +750,7 @@ informationsquellen für A.analyse idelerweise
 - gelingt durch befragung von experten -> verhaltensweisen ableiten
 
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Untersuchungsstrategien (selfAssessment, diagnostikbegleitende Intervention)
 >  
@@ -747,6 +763,7 @@ informationsquellen für A.analyse idelerweise
 - 2) konjunktive -> sind jede einzelne Anforderung unabdingbar und nicht kompensierbar -> multiples minimum-Kriterium
 
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ## Vo_6: Vertiefung/ Ergänzung: Gütekriterium Zumutbarkeit
 [Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
@@ -769,6 +786,7 @@ bezug zur grundlagenforschung:
 Projektive Verfahren zumutbarkeit (
 	->  
     )
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Objektive Persönlichkeitstest zumutbarkeit
 
@@ -777,6 +795,7 @@ Projektive Verfahren zumutbarkeit (
 -> absichtlich stress und frustration -> Arbeitsprobe
 
 - Pausengestaltung -> eigenes gutdünken -> es fehlt an grundlagenforschung    
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Um Akzeptanz der Testperson zu ereichen -> Erläuterungen
 >  
@@ -787,6 +806,7 @@ Projektive Verfahren zumutbarkeit (
 - Interpretation
 - Konsequenzen
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ## Vo_7: Vertiefung/Ergänzung: Validität
 [Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
@@ -796,6 +816,7 @@ Projektive Verfahren zumutbarkeit (
 -> wichtigste gütekriterium, nachweislich nicht validät schließt brauchbarkeit des verfahrens aus
 
 -> sinnhaftigkeitsprüfung -> testautor muss systematisch analysien ob testwerte auf bestimmte unerwünschte Einflüsse zurückgeführt werden müssen
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Einflüsse auf test (
 -> Antwortstrategien
@@ -818,6 +839,7 @@ Projektive Verfahren zumutbarkeit (
 zurück zu validität (
 
 - ein test kann nur validität haben auf den bezug zum vorgesehenen einsatz des tests, NICHT! der test ist validite generell
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### - Validitätskonzepte (logisch, trivial)
 
@@ -827,6 +849,7 @@ zurück zu validität (
 -> triviale validität (arbeitsprobe text abtippen -> textverarbeitung)
 
 schon bei konstruktion:
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Inhaltliche Gültigkeit (Regelgeleitete Itemkonstruktion, 1)ExpertenRating, 2)Extremgruppenvalidierung, 3)ChangeAnsatz, 4)MethodeDesLautenDenkens, 5)EvaluationDiagnosespezifischerförderung)
 
@@ -874,6 +897,7 @@ spannung -> diagnostiker fehlen oft mittel um inhaltliche gültigkeit zu bestät
    -> AugValidi bedeutet das die Testperson glaubt zu wissen worum es geht, NICHT das test augenscheinlich valide ist
 ökologische validität _> diagnostizieren enstpricht natürlichen Lebensbedingungen
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### kriteriumsvalidiät - korrelationskoeffizient
 
@@ -900,12 +924,14 @@ Spannung testkonst - Diag _> methoden-wenig-sachverständigem testkonstrukteur v
 > Tayler-Russel-Tafeln
 -> wenig valide gut genug wenn selektionsquote niedrig genug ist
 -> Übereinstimmungsvalidität -> korreliert hoch mit altem verfahren
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### modellbasierte konstruktvalidität
 >  
 -> mathematisch-statistische Modelle -> Testbatterie bildet auf ausreichend empirischer evidenz begründete theorie ab-> modellbasierte Konstruktvalidität
 
 ->Anwendung und Auswertung dieser Verfahren ()Interpretation Und Gutachtenerstellung ()Festsetzen der Intervention ()
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ## Vo_8: Grundlagen zur Theorie und Praxis von Leistungstests: Gestaltung
 [Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
@@ -939,6 +965,7 @@ c) sequentielle Vorgabe
 ```  
 -> freie Antwort bedarf tiefgendes verständis für Testkonzept, grundliegende psy theorie PLUS umfassende Kentnis psy phän in pers interaktion
 		)				
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### 2) Power- vs Speed-and-Power Test
 
@@ -953,17 +980,20 @@ c) sequentielle Vorgabe
 - 3DW kurzform nur power-Komponente
 testvorgabe wird nach zweit beendet, wenn 8 gelöst wurden kann fähigkeitsparameter rasch geschätzt werden -> AID-G umsetzung
 ```  
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### 3) Gruppen vs IndividualVerfahren
 >  
 -> diagnostischer mehrwert in einzellverfahren
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### 4) PapierBleistuft vs Computerverfahren
 >  
 -> computer öffnet dimension bsp baco -> stresstest  
 -> baco = objektiver persöhnlichkeitstest
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ## Vo_9: Vertiefung/ergänzung: Reliablilität(genauigkeit) & ökonomie (wirtschaftlichkeit)
 [Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
@@ -989,6 +1019,7 @@ Messgenauigkeit bei IRT:
       -> groß -> geringe messgenauigkeit _> ergebnis kann falsch sein
       -> konfidenzintervall(grenzenDerSchätzung)
 ```  
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### klassische testtheorie:
 
@@ -1004,6 +1035,7 @@ Messgenauigkeit bei klassischer testtheorie:
    -> ergo 0,8 hat 36 messfehler
 ```  
 -> Axiome der klassischen Testtheorie (Standartmessfehler herleiten)
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Ökonomie:
 
@@ -1021,7 +1053,7 @@ streben nach aufwandminimierung verehlt psych diag ziel:
 -> lediglich vertraute Tests benutzt werden, die aber weniger diag info liefern
 -> ausschließlich krankenkassentests zu verwenden und info zu verlieren
 
-
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ## Vo_10 Adaptives Testen
 [Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
@@ -1053,6 +1085,7 @@ adaptiv -> abhöngigkeit von leistung in abhängigkeit andere leistungsangepasst
       -> ende zus schwer -> frustierend
       -> viele testbatterien beenden testvorgabe nach gewisser zahl nicht gel-ster aufgaben
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Vorteile_AdaptivesTesten(halbSoVieleItemsGut,...):
 >  
@@ -1064,6 +1097,8 @@ adaptiv -> abhöngigkeit von leistung in abhängigkeit andere leistungsangepasst
 3) -> Motivationale Beeinträchtigungen sind beim Testen nicht zu erwarten
 4) -> mit der höheren messgenauigkeit pro unterstest, interpretation des leistungsprofils möglich
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
+
 ### Strategien_adaptivesTesten (tailored-testing)
 >  
 -> itemparameter sind brereits bekannt, kalibrierungsstudien  
@@ -1091,6 +1126,7 @@ Wie groß muss der Itempool sein?
    -> ca 3-4 aufgaben können eingespaart werden gegenüber branched bei gleicher messgenauigkeit
 
 
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Strategien_adaptivesTesten (branchedTesting):
 >  
@@ -1105,6 +1141,7 @@ Strategie -> Itemgruppen verweisen festverzweigt:
 ```  
 -> Ein konventioneller Test mit deoppelt so vielen Aufgaben misst in den Relevanten Leistungsbereichen VIEL ungenauer
 Aber-> nur sehr wenige adaptive Tests
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ## Vo_11: Rechtssicherheit Psychologischer Gutachten
 [Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
@@ -1127,6 +1164,7 @@ Sorgfalt_bei_Auswahl_der_Verfahren_zur_Messung ()
   -> stichprobe der Eichtabellen ist representativ
      -> denk an mädchen früher und heute, unterschied in bewertung von aufgabensteller bei leistungsschwachen
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Skalierung (Anspruchsniveau, RaschModell)
 >  
@@ -1151,6 +1189,7 @@ Rasch_:
 -> naturwissenschaftliche Verbindlichkei
 -> verfahren die nicht rasch konform sind, führen zu realtiätsverfälschenden testwerten und sind verklagbar
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 
 ## Vo_12: Grundlagen zur Theorie und Praxis von Persönlichkeitsfragebögen
@@ -1176,6 +1215,7 @@ Verfälschbar -> analogskala weniger verfälscht als dichotome antwortformat
 -> dichotom gilt Raschmodell nicht, bei analogskala nach dichotomisierung schon
 -> forced choice -> reaktanz (Freiheitsentzug,trozt, anderes verhalten als sonst)}
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Technigken der Persönlichkeitsdiagnostik:
 
@@ -1189,6 +1229,8 @@ Verfälschbar -> analogskala weniger verfälscht als dichotome antwortformat
 -> objektive persönlichkeitstests
 -> projektive Verfahren
 -> systematische Verhaltensbeobachtungen
+
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Techniken der Fragebogengestalltung () {
 
@@ -1206,6 +1248,7 @@ Antwortformat:
 -> testpersonen wollen zumeist viele antwortmöglichkeiten
 -> für nuancen. manche mögen dichotom aber mehr
 ```  
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Persönlichkeitstheorien und konzepte von Persönlichkeitsfragebogen () {
 >  
@@ -1218,6 +1261,7 @@ Antwortformat:
 -> zusätzlich verträglichkeit + gewissenhaftigkeit
 ```  
 ist es gut argumentierbar of es argumentierbar plausibel ist das der klient von ihrer verfälschbarkeit keinen gebrauch macht
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ## Vo_13: Grundlagen zur Theorie und Praxis von Objektiven Persönlichkeitstests
 [Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
@@ -1235,6 +1279,7 @@ gehen auf catell zurück -> versuchen perslönliche stil merkmale aus beobachtba
 
 exp manipulation durch -> gezielte induktion von stress oder frust -> im weitesten sinne also arbeitsprobe
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### objektivePersönlichlkeitsTests (siebenhandl):
 
@@ -1244,6 +1289,7 @@ das ist ein objektiver persönlichkeitstest!
 -> lösung regiede beibehalten? -> regidität
 -> auch obj pers test -> baco (secretär unter stress)
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Objektive persönlichkeitsdiagnostik === experimentalpsychologische Verhaltensdiagnostik
 
@@ -1255,6 +1301,7 @@ das ist ein objektiver persönlichkeitstest!
 -> objektive Perstest = geringe Verfälschbarkeit
 -> oft fehlen validitätsnachweise
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### formale besonderheitung der informationsverarbeitungen (Stile)
 
@@ -1269,6 +1316,7 @@ das ist ein objektiver persönlichkeitstest!
 
 -> Bsp: reflexiv(langsam fehlerarm) vs impulsiv(schnell fehlerreich)  in problemsituationen
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ## Ansätze experimentalpsychologischer Verhaltensdiagnostik zur erfassung kognitiver Stile
 
@@ -1277,6 +1325,7 @@ das ist ein objektiver persönlichkeitstest!
 - Feldab vs Feldunabhängigkeit (wahrnehumungsungebung)
 - Repression vs Sensitization (reaktions auf emotionale inhalte)
 - Rigidiät vs Flexibilität (spontane verhaltensoptimierung (Rechnen))
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### -> Reflexiviät vs Impulsivität
 ```
@@ -1284,6 +1333,7 @@ das ist ein objektiver persönlichkeitstest!
 -> Arbeitshaltung Kuginger&Enenhö _> 30s flächenvergleich
 -> unterscheidung zwischen personen die in problemsituationen langsam und fehlerarm bzw schnell und fehlerreich ausarbeiten
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### -> Feldab- vs Feldunabhängigkeit  
 
@@ -1293,6 +1343,7 @@ das ist ein objektiver persönlichkeitstest!
 -> alles abhängig von wahrnehmungsumgebung
 -> hergovich & hörndler _> häußchentest
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### -> Repressor vs Sensitizator
 
@@ -1303,6 +1354,7 @@ das ist ein objektiver persönlichkeitstest!
 
 -> emotional, bzw angstbesetzte wörter vs neutral -> verlängerte Reaktionszeit bzw verkürzte reaktionszeiten bei personen
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### -> Rigidität vs Flexibilität
 
@@ -1312,12 +1364,14 @@ das ist ein objektiver persönlichkeitstest!
 
 -> Bsp Rechnen Siebenhandl
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ## Ansätze experimentalpsychologischer Verhaltensdiagnostik zur Erfassung spezieller Konsturkte
 
 >  
 - Frustrationstoleranz (motivbefriedigung)
 - Belastbarkeit (leistung)
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Frustrationstoleranz
 
@@ -1335,6 +1389,7 @@ Artbeishaltungen - Symbole Kodieren
 -> Leistung -> Prognose _> usw
 -> Frust durch andere sind besser
 ```
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
 ### Belastbarkeit
 
