@@ -4,7 +4,7 @@ Psychologisches Diagnostizieren -> ist die einzige genuine(ursprüngliche)
 und gesetzlich ausschließlich auf Psychologien beschränkte (psychologische
 Tätigkeit in der Praxis
 
-[Markdown - Link](/#-Link1)
+[Markdown - Link](#-Link1)
 
 Vo_1: Ethische und rechtliche Rahmenbedingungen psychologischen Diagnostizierens:](#test-too)
 
