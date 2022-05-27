@@ -106,7 +106,7 @@ Tätigkeit in der Praxis
 ## Vo_1: Ethische und rechtliche Rahmenbedingungen psychologischen Diagnostizierens:
 [Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 
-###### (Recht, Qualtiätsprofil)
+### (Recht, Qualtiätsprofil)
 
 
 > Rechtliche und "rechtsnahe" Quellen:
