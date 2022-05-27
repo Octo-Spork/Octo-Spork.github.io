@@ -124,7 +124,7 @@ Tätigkeit in der Praxis
  -> (durchgängige) Lehrmeinung
 ```
 
-###### Qualitätsprofil für Psychologen im Fach Psychologische Diagnostik:  
+### Qualitätsprofil für Psychologen im Fach Psychologische Diagnostik:  
 
 ```
 -> Umfassende Kentnis über Konzepte und Regeln der Gesrpächsführung (in
@@ -178,7 +178,7 @@ Beherschen eines adressatengemäen Audruckstils
 Qualifikation zur Abfassung psychologischer Gutachten
 ```
 
-###### Definition: Psychologische Diagnostik
+### Definition: Psychologische Diagnostik
 	-> ist die wissenschafltiche Disziplin
 	(Lehrfach), die psychoglogisches Diagnostizieren für die
 	Praxis vorbereitet.
@@ -187,7 +187,7 @@ Qualifikation zur Abfassung psychologischer Gutachten
 	besonderer Verfahren zielgerichtete Informationen über die psychischen
 	Merkmale von einem oder mehreren Menschen gewinnen will;
 
-###### dieser Prozess bezieht sich auf:
+### dieser Prozess bezieht sich auf:
 
 		-Klärung der Fragestellung
 		-Auswahl der einzusetzenden Verfahren
@@ -203,7 +203,7 @@ Qualifikation zur Abfassung psychologischer Gutachten
 		Theorie des Messsens psychischer Phänomene ..., also der THeorie der
 		Konstruktion der psychologische diagnostischen Verfahren.
 
-##### Rechtliche Rahmenbedinugnen:
+### Rechtliche Rahmenbedinugnen:
 
 > Psychologengesetz
 
@@ -228,7 +228,7 @@ Ein psychologisches Gutachten dokumentiert ein wissenschaftlich fundiertes
 Vorgehen und beantwortet so eine vorgegebene Fragestellung
 ```
 
-###### Konsumentenschutz
+### Konsumentenschutz
 > zur Wahrung des Konsumentenschutzes -> Standards
 (bauen auf Lehrmeinungen auf -> müssen gesamten diagnostischen Prozess
 transparent machen:
@@ -254,7 +254,7 @@ Untersuchung gemäß den berufsethisch verankerten Qualitätsstandars für
 psychologische Gutachten abgefasst zu haben."
 ```
 
-###### Rechtliche bzw. Rechtsnahe Quellen
+### Rechtliche bzw. Rechtsnahe Quellen
 ```
 Psychologengesetzt 2013(nur in Ö)
 
@@ -266,7 +266,7 @@ Psychologenvereinigungen
 
 durchgängige Lehrmeinung
 ```
-###### PsychDiag als prozess:  
+### PsychDiag als prozess:  
 
 > Psychologisches Diagnostizieren ist ein Prozess unter zuhilfenahme
 besonderer Verfahren zielgerichtete Informationen über psychische Mermale
@@ -298,7 +298,7 @@ psychologische Gutachten nur nach genauer Erhebung der im Gutachten zu
 beurteilenden Tatsachen nach bestem Wissen und Gewissen ausstellen
 ```
 
-###### Berufsethische Richtlinien
+### Berufsethische Richtlinien
 ```
 Psychologinnen und Psychologen ...plfegen eine größtmögliche sachliche und
 wissenschaftliche Fundiertheit, Sorgfalt und Gewissenhaftigkeit bei der
@@ -314,7 +314,7 @@ Ein psychologisches Gutachten dukumentiert ein wissenschaftlich fundiertes
 Vorgehen und beantwortet eine vorgegebene Fragestellung
 ```
 
-###### Gutachten Aus Dorsch - Lexikon der psychologie
+### Gutachten Aus Dorsch - Lexikon der psychologie
 
 > warhung konsumentenschutz standards -> diagnostik und testkuratiorum oder
 Verwaltungseinrichtung erstellt und bauen auf Lehrmeinungen auf
@@ -351,8 +351,8 @@ Lehrmeinung quasi = einheitlich gefestigte standesüberzeugung
 verstoß gegen anstandgefühl ist rechtsrelevant
 ```
 
-### Vo2 -  Arbeitsmittel psychologischen diagnostizierens
-
+## Vo2 -  Arbeitsmittel psychologischen diagnostizierens
+[Back](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script.md#script)
 > ein psychologischer test sollte differenzieren
 
 ```
