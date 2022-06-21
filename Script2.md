@@ -1,10 +1,6 @@
+# Forschungsmethoden für Fortgeschrittene
+
 ### Vo_1: Untersuchungsformen
-
-
-
-
-
-
 ### Vo_2: Versuchsdesigns
 ### Vo_3: Datenerfassung
 ### Vo_4: Kausalität
