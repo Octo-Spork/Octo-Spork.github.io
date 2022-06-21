@@ -1,8 +1,11 @@
 # Forschungsmethoden für Fortgeschrittene
 
 
-[Vo1: Untersuchungsformen](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script2.md#vo_1-untersuchungsformen-1)
+[Vo1: Untersuchungsformen](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script2.md#vo_1-untersuchungsformen)
 
+  - [Warum bedürfen auch publizierte Forschungsergebnisse einer gewissen Skepsis?](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script2.md#1-warum-bedürfen-auch-publizierte-forschungsergebnisse-einer-gewissen-skepsis)
+  - [Ausrichtungen wissenschaftlicher Untersuchungen mit Beispiel: explorativ, beschreibend, hypothesenprüfend)](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script2.md#2-verschiedene-ausrichtungen-wissenschaftlicher-untersuchungen-mit-eigenem-beispiel-gemeint-ist-explorativ-beschreibend-hypothesenprüfend-eigen-heißt-dabei-von-ihnen-selbst-gefunden)
+  - [Strategien der Themenfindung zur wissenschaftlichen Untersuchung.](https://github.com/Octo-Spork/Octo-Spork.github.io/blob/main/Script2.md#3-mögliche-strategien-der-themenfindung-zu-einer-wissenschaftlichen-untersuchung)
 []()
 []()
 []()
