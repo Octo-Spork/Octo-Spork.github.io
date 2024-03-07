@@ -229,7 +229,7 @@ Statistik für Fortgeschrittene
 > -> REML liefert genauere **schätzer für Varianzen**
 > -> AIC & Bic -> kleiner besser -> besserer Datenfit; besseres modell
 
-#### Dimensionsreduction und latente Variablen: (PCA & EFA)
+#### **Exploratorische** Dimensionsreduction und latente Variablen: (PCA & EFA)
 
 01. Anwendung von hauptkomponentenanalyse **(PCA)** & ExploratorischerFaktorenanalyse **(EFA)**
 > 1. **Ergründung der gemeinsamen latenten Struktur von Variablen**
@@ -264,9 +264,136 @@ Statistik für Fortgeschrittene
 06. Rotation
 > ändern ladungen der Items & größe der eigenwerte zueinander; winkel ändern auch varianz durch überlappen
 > 
-> Varimax
-> Quartimax
-> Oblimin
+> 1.Varimax -> orthogonale Komponenten, Einfachstruktur ordnet variablen möglichst eindeutig komponenten zu
+> 2.Quartimax -> orthogonale Komponenten, maximiert erklärungswert v komponenten gegenüber variablen
+> 3.Oblimin -> oblique komponenten; schätz korrelation zwischen komponenten frei, beinhaltet so auch ortho (Varimax)
+
+07. **diff:** PCA vs EFA
+> -> PCA sucht Komponenten die ein MAximum der beobachteten Varianz erklären
+> -> EFA Messmodell, das geinsame Faktoren in Variablen identifiziert und a priori von Messfehlern differenziert
+>              EFA faktoren erklären nicht die beobachtete Varainz sondern nur gemeinsame Varianz ohne messfehler
+
+08. Hauptachsen-Faktoranalyse (PAF) teil von EFA
+> -> R2 der Regression jeder Variable auf die übrigen Variablen
+> -> liefert schätzer des Varianzanteils den jede Variable mit den übrigen gemein hat
+>
+> -> in PCA kann immer lösung gefunden werden, in EFA nicht
+>             -> 3 variablen pro faktor minumum
+>             -> manchmal produziert EFA heywood lösung
+>                     -> erklärte varianz einer o. mehrer varaiblen > 1
+
+09. gemeinsamkeiten PCA & EFA
+>->  Ladung & Ladungsmuster ähnlich
+>-> Komponenten & Faktorscores hochkorreliert
+>-> korrelationen von scores mit drittvariablen gleich
+
+10. Kombination PCA & EFA
+> -> PCA robuster weil keine einschränkung von faktoren m & keine heywoodcases
+> -> erst PCA für m faktoren
+> -> dann EFA ladungsmatrix
+>
+> 3 Faktorscores berechnugen:
+> 1.Regressionsmethode: maximiert Validität der Scores(hohe Korrelation mit faktor)
+>         -> bildet korrelationsstruktur der faktoren aber nicht getreu ab
+> 2.Bartlett-Werte: auch hohe Validität
+>         -> ebenso keine getreue Abbildung der Korrelationstruktur
+>         -> schätzer sind unbiased
+> 3.Anderson-Rubin-Methode: geringere Validität
+>         -> nicht unbiased
+>         -> getreue abbildung der korrelationstruktur
+> ALternativen zu Faktorscores
+> 4.Ungewichteter Score
+> 5Gewichteter Score
+> 
+> kommunalität anteil erklärter Varianz!
+> uniqueness 1-kommunalität anteil nicht erklärter varianz!
+> faktorladung >.30
+
+11. Vorausetzungen
+> 1. metrische & multivariat normalverteilte variablen
+> 2. werden durch alles beeinflust was peaerosn korreltionskoeffizient bbeinflusst
+>    -> schiefverteilte Variablen, <= abstufungen
+> Gefahr bei Itemanalysen -> extraktion artifizieller schwierigkeitsfaktoren
+>  -> einzige lösung latente korrelation (polychorsch, tetrachorisch)
+>  -> vorsicht bei ergebnisen die items mit 5 oder weniger stufen metrisch nennen
+> 3. Stichprobengröße N>=300
+>  -> abhängig anzahl variablen, anzahl faktoren und größe kommunalität und ladungen
+> 4. Multikolinearität -> Variablen sollen korrelieren
+>  -> annähernd perfekte korrelation -> heywood fälle;negative auswirkung auf parameterschätzung
+>  -> zu hoch exkludieren
+>  -> ausreichende korrelation -> K M O Test
+>.           -> KaiserMeyerOlkinTest prüft struktur der interkorrelationsmatrix
+>            -> nahe 0 ungeeignet, nahe 1 geeignte Cutoff >.5
+>  -> BartlettTest -> Testet gesamte Interkorrelationsmatrix auf s, abhängig von N -> dont use
+
+12. indefinite Korrelationsmatrix
+> -> eine matrix mit positiven & negativen Eigenwerten ist indefinit
+> -> Terachor/polychor können indefinit sein ; Matrizen mit pearsonkorrealltion nicht
+>
+> Produziert bei faktorisierung heywood cases; ungültige fälle mit ladung > 1
+> Häufiger: jex extremer Items, größer Ladung, kleiner N
+
+#### CFA & SEM
+
+01. CFA
+> Conirmatory Factor Analysis -> konfirmatorische Testung von Messmodellen
+
+02. SEM
+> Structural Equation Modeling
+> -> Vereint CFA(messmodelle) & strukturmodelle
+> -> Allgemeines statistisches Rahmenmodell für CFA, ALM & GenLins
+
+03. Messmodel
+>nicht alle ladungen werden frei geschätz, sondern messmodell festgelegt (manche var = 0) 
+>CFA testet ob annahme mit empirischen daten vereinbar ist und testet konfirmatorisch
+
+04. Strukturmodelle
+> -> Jedes regressionsmodell ist ein strukturmmodel
+> -> SEM kann aber auch komplexer, var können zb latent oder manifest sein, outcomes können gleichzeitig prädiktor
+>.     für nachgeordnete Konstrukte sein
+> -> SEM trachtet nach vereinfachung und testet damit spezifische hypothesen
+
+05. Durchführug von SEM
+> 1. **Modellspezifikation**
+> 2. **Überprüfung der Modellidentifikation**
+> 3. **Daten sammeln**
+> 4. **ANpassen des Modells & Überprüfen des modelfit**
+> 5. **Respezifikation des Modells/ testung Alternativmodell**
+
+06. modellspezifikation & Überprüfung der Modellidentifikation
+> modell soll weniger komplex seiin als daten selbst
+> -> df < 0: unteridentifiziert: Modell komplexer als daten selbst (Fehler!)
+> -> df = 0: genau identifiziert: Modell gleich komplex
+> -> df > 0: überidentifiziert: Modell weniger komplex als Daten, modelfit bestimbar und informativ
+
+07. Anpassen des Modells & Überprüfen des models
+> Anpassen des Modells
+> -> VarianzKovarianzmatrix der beobachteten DAten wird anhand der SEM parameter reproduziert
+> -> Modellbasierte VarainzKovarianzmatrix zum einen über Ladungsmatrizen wie PCA & EFA 
+>.   aber auch über indirekte Effekte (mediationsanalyse) gebildet
+> -> Algorythmus standardmäßig ML
+>
+>Überprüfen des models
+>X2-Anpassungstest -> wenn **nicht** signifikant -> modell beschreibt daten ausreichen gut
+>          mit großem N immer signifikant
+>Goodness of fit indicies
+>.         CFI > 0.95, TLI > 0.90; guter fit; WErtebereich 0-1
+>Badness-of-fit indices
+>          RMSEA < 0.6/<0.8 SRMR <0.5/<0.10 cuttoffs für guten fit
+>          RMSEA wetebereich 0 - endlos, SRMR 0-1
+
+08. Guter modelfit
+> -> nur hinweis das modell empirisch plausibel
+> -> **kein** beleg das modell auch wirklich korrekt gibt immer alternative modelle
+> -> kausalität ist mit querschnittlichen daten in der regel nicht testbar oder belegbar
+>             -> testable implications oder längschittliche daten benötigt
+
+09. Voraussetzungen
+> 1.annahme der mutlivariten normalverteilung für ML schätzung nicht immer realistisch
+>         -> schlechterer moddelfit -> besser robuste ML SChätzer verwenden
+> 2.Ordinale Daten (items <= 5 items) brauchen andere schätzer
+>         -> Tetrachor/polychor
+> 3.SEM braucht häufig eher große Stichproben (N>=200;10-15personen pro schätzer)
 
 
 
