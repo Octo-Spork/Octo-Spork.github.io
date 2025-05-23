@@ -136,6 +136,21 @@ footer .footer_bottom {
 
 /* UtilityClasses */
 
+
+.toggle-box .content {
+  display: none;
+  white-space: pre-wrap;
+  margin.top 1rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+
+#toggle.content:checked + .toggle-box .content {
+  display: block;
+}
+
+
+  
 .container {
   max-width: 1180px;
   text-align: center;
