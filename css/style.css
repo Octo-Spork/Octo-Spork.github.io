@@ -136,17 +136,30 @@ footer .footer_bottom {
 
 /* UtilityClasses */
 
-
+.hidden-checkbox {
+  display: none;
+}
+  
 .toggle-box .content {
   display: none;
   white-space: pre-wrap;
-  margin.top 1rem;
+  margin-top 1rem;
   padding: 1rem;
   border: 1px solid #ccc;
+  background #f9f9f9;
+  font-family: sans-serif;
+  line-height: 1.5;
 }
 
 #toggle.content:checked + .toggle-box .content {
   display: block;
+}
+
+.toggle-lable {
+  cursor: pointer;
+  color: #0077cc;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 
