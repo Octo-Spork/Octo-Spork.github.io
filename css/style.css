@@ -140,18 +140,17 @@ footer .footer_bottom {
   display: none;
 }
   
-.toggle-box .content {
+.hidden-text {
   display: none;
-  white-space: pre-wrap;
   margin-top: 1rem;
   padding: 1rem;
   border: 1px solid #ccc;
   background: #f9f9f9;
+  white-space: pre-wrap;
   font-family: sans-serif;
-  line-height: 1.5;
 }
 
-#toggle.content:checked + .toggle-box .content {
+#toggle:checked + .hidden-text {
   display: block;
 }
 
